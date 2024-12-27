@@ -1,0 +1,16 @@
+# dataset path
+path: /root/autodl-fs/ultralytics-main/dataset/ANQUAN
+train: images/train
+val: images/val
+test: images/test
+
+# number of classes
+nc: 5
+
+# class names
+names:
+  0 : hat
+  1 : person
+  2 : fall
+  3 : phone
+  4 : smoke

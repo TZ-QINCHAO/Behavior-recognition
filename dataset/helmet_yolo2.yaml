@@ -1,0 +1,13 @@
+# dataset path
+path: /root/autodl-fs/ultralytics-main/dataset/helmet_yolo
+train: images/train
+val: images/val
+test: images/test
+
+# number of classes
+nc: 2
+
+# class names
+names:
+  0 : person
+  1 : hat
